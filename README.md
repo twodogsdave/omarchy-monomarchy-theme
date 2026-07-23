@@ -1,6 +1,6 @@
 # Monomarchy
 
-A monochromey lookin' theme for the Omarchy Linux distrobution with Hyprland.  Originally made by mishonki3.
+A monochromey lookin' theme for the Omarchy Linux distrobution.  Originally made by mishonki3.
 
 ---
 
@@ -15,5 +15,5 @@ A monochromey lookin' theme for the Omarchy Linux distrobution with Hyprland.  O
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/twodogsdave/omarchy-bliss-theme.git
+omarchy-theme-install https://github.com/twodogsdave/omarchy-monomarchy-theme.git
 
